@@ -30,12 +30,6 @@
 		"full_name": "rckt/099-wildlife"
 	},
 	{
-		"clone_url": "git@bitbucket.org:rckt/alexandra-miro-impulse-theme.git",
-		"project_name": "Joi Polloi",
-		"repository_name": "alexandra-miro-impulse-theme",
-		"full_name": "rckt/alexandra-miro-impulse-theme"
-	},
-	{
 		"clone_url": "git@bitbucket.org:rckt/animation.git",
 		"project_name": "UnusualProjects",
 		"repository_name": "Animation",
@@ -454,12 +448,6 @@
 		"project_name": "Good Finance",
 		"repository_name": "Good Finance Drupal 9",
 		"full_name": "rckt/good-finance-drupal-9"
-	},
-	{
-		"clone_url": "git@bitbucket.org:rckt/graphql_compose_extra.git",
-		"project_name": "Drupal",
-		"repository_name": "graphql_compose_extra",
-		"full_name": "rckt/graphql_compose_extra"
 	},
 	{
 		"clone_url": "git@bitbucket.org:rckt/graphql_compose.git",
@@ -1112,12 +1100,6 @@
 		"full_name": "rckt/resilience-first"
 	},
 	{
-		"clone_url": "git@bitbucket.org:rckt/resourcespace.git",
-		"project_name": "Drupal",
-		"repository_name": "ResourceSpace",
-		"full_name": "rckt/resourcespace"
-	},
-	{
 		"clone_url": "git@bitbucket.org:rckt/rivm-neurologyquiz.git",
 		"project_name": "DutchMinistryOfHealth",
 		"repository_name": "RIVM-NeurologyQuiz",
@@ -1260,12 +1242,6 @@
 		"project_name": "Sheffield Hallam University",
 		"repository_name": "SHU-DegreeShow",
 		"full_name": "rckt/shu-degreeshow"
-	},
-	{
-		"clone_url": "git@bitbucket.org:rckt/simple-quiz.git",
-		"project_name": "Drupal",
-		"repository_name": "Simple Quiz",
-		"full_name": "rckt/simple-quiz"
 	},
 	{
 		"clone_url": "git@bitbucket.org:rckt/sirgarethedwardscancercharity.git",
